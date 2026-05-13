@@ -10,3 +10,5 @@
 <img width="1140" height="717" alt="image" src="https://github.com/user-attachments/assets/ee989b66-c95c-4267-8912-661d4ce94bb6" />
 <h3>IP VLSM</h3>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1d5ae2eb-68ba-4c2c-8a11-7f6930473419" />
+<h3>IP summarization at aggregation router</h3>
+<img width="789" height="594" alt="image" src="https://github.com/user-attachments/assets/8afe06e6-52eb-4fb0-b151-b5e58fdb004b" />
