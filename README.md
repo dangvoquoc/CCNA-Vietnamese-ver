@@ -14,3 +14,6 @@
 <img width="789" height="594" alt="image" src="https://github.com/user-attachments/assets/8afe06e6-52eb-4fb0-b151-b5e58fdb004b" />
 <h3>hello packet OSPF</h3>
 <img width="756" height="746" alt="image" src="https://github.com/user-attachments/assets/43641289-f818-48f8-b980-aa3c86c2988c" />
+<h3>Mixed network IP and Token Ring</h3>
+<img width="811" height="625" alt="image" src="https://github.com/user-attachments/assets/72f8de0b-7a80-4ae9-9e26-751261c3e812" />
+
