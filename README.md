@@ -24,6 +24,8 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/27c21552-b912-419e-bd1c-bf26293852c0" />
 <h3>3 layer topology</h3>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75361472-4cc8-4871-a3b9-2eb5b9039a41" />
+<h3>Hạt lanh</h3>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/48afa5c8-2c89-46cd-bd94-6d6a85c97b5e" />
 
 
 
