@@ -30,6 +30,9 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6dae129-5596-42b6-b04e-ff6864edd517" />
 <h3>Control Plane and Data Plane</h3>
 <img width="941" height="520" alt="image" src="https://github.com/user-attachments/assets/66b708f7-3e59-4e7a-b00f-c17f8c1514fe" />
+<h3>Wan Design Procedure</h3>
+<img width="772" height="651" alt="image" src="https://github.com/user-attachments/assets/a913c97f-a02a-4a53-95bf-1d1677c0135e" />
+
 
 
 
