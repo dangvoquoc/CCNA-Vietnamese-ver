@@ -36,6 +36,9 @@
 <img width="1162" height="690" alt="image" src="https://github.com/user-attachments/assets/07e2fbd4-d14e-4196-bcbd-72354f47579e" />
 <h3>Connection between DTEs</h3>
 <img width="997" height="465" alt="image" src="https://github.com/user-attachments/assets/e15934ab-6f4c-4d62-a5e3-3ee36dcdcbe9" />
+<h3>core concept of network</h3>
+<img width="1137" height="775" alt="image" src="https://github.com/user-attachments/assets/84d08e02-ddc0-4cfb-8bce-7dc03ea17b76" />
+
 
 
 
