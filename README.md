@@ -33,7 +33,7 @@
 <h3>Wan Design Procedure</h3>
 <img width="772" height="651" alt="image" src="https://github.com/user-attachments/assets/a913c97f-a02a-4a53-95bf-1d1677c0135e" />
 <h3>DTE and DCE in networking</h3>
-<img width="706" height="793" alt="image" src="https://github.com/user-attachments/assets/379ec8e2-e9b0-47fa-9014-0b8439248aff" />
+<img width="1162" height="690" alt="image" src="https://github.com/user-attachments/assets/07e2fbd4-d14e-4196-bcbd-72354f47579e" />
 
 
 
