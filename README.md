@@ -38,6 +38,9 @@
 <img width="997" height="465" alt="image" src="https://github.com/user-attachments/assets/e15934ab-6f4c-4d62-a5e3-3ee36dcdcbe9" />
 <h3>core concept of network</h3>
 <img width="1137" height="775" alt="image" src="https://github.com/user-attachments/assets/84d08e02-ddc0-4cfb-8bce-7dc03ea17b76" />
+<h3>PPP Authentication with CHAP theory</h3>
+<img width="746" height="875" alt="image" src="https://github.com/user-attachments/assets/35f2c08f-f56c-49f2-8b75-0ef01f320dc5" />
+
 
 
 
