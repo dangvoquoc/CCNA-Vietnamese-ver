@@ -44,6 +44,9 @@
 <img width="780" height="438" alt="image" src="https://github.com/user-attachments/assets/ec4b4ff2-351a-4827-9e15-f4879ce71352" />
 <h3>Wireshark nightmare 1 thời, chả hiểu sao h mình theo network@@</h3>
 <img width="744" height="692" alt="image" src="https://github.com/user-attachments/assets/7d05be30-4ef0-4e50-8467-6345cef0df69" />
+<h3>ISDN services, vẫn chưa hiểu bản chất ISDN với PPP và HDLC</h3>
+<img width="846" height="490" alt="image" src="https://github.com/user-attachments/assets/08b1134e-e24c-48ae-af7a-5fd87d221592" />
+
 
 
 
