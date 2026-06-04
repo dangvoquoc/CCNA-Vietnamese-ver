@@ -1,6 +1,6 @@
 <h2> CCNA theory and labs <h2>
 <h3> I'll show what i have learned through my CCNA journey</h3>
-<h3>Introduction about network devices, it's written in Vietnamese bro ^^</h3>
+<p>Introduction about network devices, it's written in Vietnamese bro ^^</p>
 <p align="center">
   <img margin:auto; display:block; width="452" height="159" alt="image" src="https://github.com/user-attachments/assets/2a147d54-17a8-4693-bae9-c5f97d96cd89" />
 </p>
