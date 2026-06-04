@@ -13,7 +13,7 @@
 <li>Liên hiệp công nghiệp điện tử - EIA (Electronic Industries Association)</li>
 </ul>
 
-<p>We have components of a router here</p>
+<h3>We have components of a router here</h3>
 <p align="center">
   <img width="526" height="321" alt="image" src="https://github.com/user-attachments/assets/ce5c9668-26b3-40de-b5c9-9b95da4b03db" />  
 </p>
