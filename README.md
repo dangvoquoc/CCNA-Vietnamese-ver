@@ -9,7 +9,7 @@
 <li>Tổ chức đặc trách về kỹ thuật Internet - IETF (Internet Engineering Task Force)</li>
 <li>Liên hiệp công nghiệp điện tử - EIA (Electronic Industries Association)</li>
 </ul>
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/2fb4c651-4e87-417a-9afa-254c11238d18" />
+<img width="452" height="159" alt="image" src="https://github.com/user-attachments/assets/2a147d54-17a8-4693-bae9-c5f97d96cd89" />
 <h3>We have components of a router here</h3>
 <img width="858" height="829" alt="image" src="https://github.com/user-attachments/assets/8cd0ff87-44a9-4d9d-bd87-597a3d7050d3" />
 <h3>Different types of WAN connection</h3>
