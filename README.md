@@ -13,8 +13,16 @@
 <li>Liên hiệp công nghiệp điện tử - EIA (Electronic Industries Association)</li>
 </ul>
 
-<h3>We have components of a router here</h3>
-<img width="858" height="829" alt="image" src="https://github.com/user-attachments/assets/8cd0ff87-44a9-4d9d-bd87-597a3d7050d3" />
+<p>We have components of a router here</p>
+<p align="center">
+  <img width="526" height="321" alt="image" src="https://github.com/user-attachments/assets/ce5c9668-26b3-40de-b5c9-9b95da4b03db" />  
+</p>
+<p>
+Router là một loại máy tính đặc biệt. Nó cũng có các thành phần cơ bản giống như máy tính: CPU, bộ nhớ, system bus, và các cổng giao tiếp. Tuy nhiên router được sử dụng để thực hiện một số chức năng đặc biệt. Ví dụ: router kết nối hai hệ thống mạng với nhau và cho phép 2 hệ thống này có thể liên lạc với nhau, ngoài ra router còn thực hiện việc chọn lựa đường đi tốt nhất cho dữ liệu.
+</p>
+<p>
+Cũng giống như máy tính cần phải có hệ điều hành để chạy các trình ứng dụng thì router cũng cần phải có hệ điều hành để chạy các tập tin cấu hình. Tập tin cấu hình chứa các câu lệnh và các thông số để điều khiển luồng dữ liệu ra vào trên router. Đặc biệt là router còn sử dụng giao thức định tuyến để truyền để quyết định chọn đường đi tốt nhất cho các gói dữ liệu. Do đó, tập tin cấu hình cũng chứa các thông tin cài đặt và chạy các giao thức định tuyến trên router.
+</p>
 <h3>Different types of WAN connection</h3>
 <img width="807" height="676" alt="image" src="https://github.com/user-attachments/assets/a957b672-d7ba-4e38-af91-63aa6ba8af6c" />
 <h3>Different types of WAN protocols</h3>
