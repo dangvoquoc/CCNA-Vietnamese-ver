@@ -1,6 +1,7 @@
 <h2> CCNA theory and labs <h2>
 <h3> I'll show what i have learned through my CCNA journey</h3>
 <h3>Introduction about network devices, it's written in Vietnamese bro ^^</h3>
+<img margin:auto; display:block; width="452" height="159" alt="image" src="https://github.com/user-attachments/assets/2a147d54-17a8-4693-bae9-c5f97d96cd89" />
 <p>Các giao thức ở lớp Liên kết dữ liệu của mạng WAN mô tả về cách thức mà gói dữ liệu được vận chuyển giữa các hệ thống trên một đường truyền dữ liệu. Các giao thức này được thiết kế cho các dịch vụ chuyển mạch điểm-đến-điểm, đa điểm, đa truy nhập.</p>
 <p>Các tiêu chuẩn của mạng WAN được định nghĩa và quản lý bởi các tổ chức quốc tế sau:</p>
 <ul>
@@ -9,7 +10,7 @@
 <li>Tổ chức đặc trách về kỹ thuật Internet - IETF (Internet Engineering Task Force)</li>
 <li>Liên hiệp công nghiệp điện tử - EIA (Electronic Industries Association)</li>
 </ul>
-<img width="452" height="159" alt="image" src="https://github.com/user-attachments/assets/2a147d54-17a8-4693-bae9-c5f97d96cd89" />
+
 <h3>We have components of a router here</h3>
 <img width="858" height="829" alt="image" src="https://github.com/user-attachments/assets/8cd0ff87-44a9-4d9d-bd87-597a3d7050d3" />
 <h3>Different types of WAN connection</h3>
