@@ -5,6 +5,9 @@
 <p>Các tiêu chuẩn của mạng WAN được định nghĩa và quản lý bởi các tổ chức quốc tế sau:</p>
 <ul>
 <li>Liên hiệp viễn thông quốc tế - lĩnh vực tiêu chuẩn viễn thông - ITUT (International Telecommunication Union - Telecommunication Standardization Sector), trước đây là Ủy ban cố vấn điện thoại và điện tín quốc tế - CCITT (Consultative Commitee for Internation Telegraph and Telephone).</li>
+<li>Tổ chức quốc tế về tiêu chuẩn  - ISO (International Organization for Standardization)</li>
+<li>Tổ chức đặc trách về kỹ thuật Internet - IETF (Internet Engineering Task Force)</li>
+<li>Liên hiệp công nghiệp điện tử - EIA (Electronic Industries Association)</li>
 </ul>
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/2fb4c651-4e87-417a-9afa-254c11238d18" />
 <h3>We have components of a router here</h3>
