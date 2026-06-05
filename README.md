@@ -71,18 +71,15 @@ Router vừa được sử dụng để phân đoạn mạng LAN vừa là thi�
 
 <h3>Mixed network IP and Token Ring</h3>
 <img width="811" height="625" alt="image" src="https://github.com/user-attachments/assets/72f8de0b-7a80-4ae9-9e26-751261c3e812" />
-<h3>Nấm Mộc Nhung</h3>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab9d25c8-486b-4582-8c7f-7ce77ec2c751" />
+ab9d25c8-486b-4582-8c7f-7ce77ec2c751" />
 <h3>VLAN</h3>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b175b194-efd2-4020-b789-ac626c86e908" />
 <h3>Citizen watch</h3>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/27c21552-b912-419e-bd1c-bf26293852c0" />
 <h3>3 layer topology</h3>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75361472-4cc8-4871-a3b9-2eb5b9039a41" />
-<h3>Hạt lanh</h3>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/48afa5c8-2c89-46cd-bd94-6d6a85c97b5e" />
-<h3>my motivation</h3>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6dae129-5596-42b6-b04e-ff6864edd517" />
+assets/48afa5c8-2c89-46cd-bd94-6d6a85c97b5e" />
+b6dae129-5596-42b6-b04e-ff6864edd517" />
 <h3>Control Plane and Data Plane</h3>
 <img width="941" height="520" alt="image" src="https://github.com/user-attachments/assets/66b708f7-3e59-4e7a-b00f-c17f8c1514fe" />
 <h3>Wan Design Procedure</h3>
